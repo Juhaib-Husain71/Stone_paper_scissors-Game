@@ -24,3 +24,4 @@ Play against the computer and see who wins!
 4. Score updates after each round.
 
 ## 🌐 Live Demo
+ https://juhaib-husain71.github.io/Stone_paper_scissors-Game/
