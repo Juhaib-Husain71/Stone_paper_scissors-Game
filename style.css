@@ -72,6 +72,7 @@ img{
     .choices{
         width: 100%;
         margin-top: 7.5rem;
+        gap: 1.1rem;
     }
     .choice{
         height: 80%;
@@ -79,7 +80,7 @@ img{
     }
     img{
         height: 80%;
-        width: 80%;
+        width: 95%;
     }
 
     .score-board{
