@@ -25,3 +25,6 @@ Play against the computer and see who wins!
 
 ## 🌐 Live Demo
  https://juhaib-husain71.github.io/Stone_paper_scissors-Game/
+
+ ## Author 
+Juhaib Husain
